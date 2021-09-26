@@ -1,0 +1,16 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "Gateway between frontend and services",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konrad Gumienny",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hemera": "0.0.5",
+    "uuid": "^8.3.2"
+  }
+}
